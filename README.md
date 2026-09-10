@@ -3,9 +3,9 @@
 
 Email Me 👉 ✉️ **dilip.sharma4558@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Imagify Project
+- 🔭 **I’m currently working on:** Swiggy Clone
 - 🌱 **I’m currently learning:** MERN Stack
-- 👯 **I’m looking to collaborate on:** Imagify Project
+- 👯 **I’m looking to collaborate on:** Swiggy Clone
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** dilip.sharma4558@gmail.com
 - 😄 **Pronouns:** Dilip Sharma
