@@ -1,11 +1,11 @@
 # 💫 Hi 👋, I'm Dilip Kumar
-**Passionate Java Developer | Crafting Code & Solving Problems | CSE Enthusiast**
+**Passionate MERN Stack Developer | Crafting Code & Solving Problems | CSE Enthusiast**
 
 Email Me 👉 ✉️ **dilip.sharma4558@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Swiggy Clone
+- 🔭 **I’m currently working on:** JobPortal
 - 🌱 **I’m currently learning:** MERN Stack
-- 👯 **I’m looking to collaborate on:** Swiggy Clone
+- 👯 **I’m looking to collaborate on:** JobPortal
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** dilip.sharma4558@gmail.com
 - 😄 **Pronouns:** Dilip Sharma
